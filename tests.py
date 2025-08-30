@@ -1381,7 +1381,7 @@ def run_all_tests():
         test_07_enterprise_integration,
         test_08_compliance_checker_validation,
         test_09_ab_testing_functionality,
-        test_10_governance_dashboard_generation
+        test_10_file_operations_validation
     ]
     
     passed = 0
